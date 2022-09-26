@@ -35,3 +35,4 @@
  >> * [Real-world time series data]()
  >>> ### Certificate:
 
+![GitHub repo size](https://img.shields.io/github/repo-size/yashj02/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate)
