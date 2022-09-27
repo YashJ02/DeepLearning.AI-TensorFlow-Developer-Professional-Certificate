@@ -1,3 +1,6 @@
+# ![GitHub repo size](https://img.shields.io/github/repo-size/yashj02/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white)
+
+
 # DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
 > TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. [The DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models. 
 
@@ -34,5 +37,3 @@
  >> * [Recurrent Neural Networks for Time Series]()
  >> * [Real-world time series data]()
  >>> ### Certificate:
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yashj02/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate)
